@@ -40,7 +40,7 @@
 
     <img src="images/Nkululeko.jpg" alt="Nkululeko's picture"/>
 
-    <p>I am running for President of the Republic of South Africa.</p>
+    <p>I am running for President of the Republic of South Africa!</p>
 
 </main>
 
