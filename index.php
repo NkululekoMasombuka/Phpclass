@@ -7,44 +7,21 @@
     <meta charset="UTF-8">
 
     <title>Victor's Website</title>
-
-    <meta>
-
+    <link href="css/base.css" type="text/css" />
 </head>
 
 <body>
+<header> <?php include 'include/header.php'?> </header>
+<nav><?php include 'include/nave.php'?></nav>
 
-<header>
 
-    <h1>Victor's  Website</h1>
-
-    <link rel="stylesheet" type="text/css" href="css/base.css">
-
-</header>
-
-<nav>
-
-    <ul>
-
-        <li><a href="/">Home</a></li>
-
-        <li><a href="#">Loop Demo</a></li>
-
-        <li><a href="#">About Us</a></li>
-
-    </ul>
-
-</nav>
 
 <main>
 
-    <img src="images/Nkululeko.jpg" alt="Nkululeko's picture"/>
-
-    <p>I am running for President of the Republic of South Africa!</p>
 
 </main>
+<footer><?php include 'include/footer.php'?></footer>
 
-<footer>&copy; 2016 Nkululeko Victor Masombuka</footer>
 
 </body>
 
